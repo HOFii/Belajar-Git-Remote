@@ -1,0 +1,4 @@
+[submodule "scripts"]
+	path = scripts
+	url = git@github.com:HOFii/belajar-git-submodule.git
+	branch = release
